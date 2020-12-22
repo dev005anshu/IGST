@@ -57,7 +57,7 @@
             <div class="secondCol col-sm-8">
                 <div class="row">
                     <div class="col-sm-7"><img id="capimg" name="imgCaptcha" src="CaptchaImg.jpg" />></div>
-                    <div class="col-sm-3"><img class="reloadIcon clickable" @click="refreshCaptcha()" src="..\assets\reload.png"/></div>
+                    <div class="col-sm-3"><img class="reloadIcon clickable" @click="refreshCaptcha()" src="../assets/reload.png"/></div>
                     <div class="col-sm-3"></div>
                 </div>
             </div>
